@@ -1,0 +1,19 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<nitf>
+  <head>
+    <title>Test Newsreel</title>
+  </head>
+  <body>
+    <headline>
+      <hl1>100 clowns drowned in their own bullshit</hl1>
+    </headline>
+    <byline>
+      <bytag>By Psaki, Ass-o-ciated Eeeejit storyteller</bytag>
+    </byline>
+    <dateline>
+      <location>Washington, USA</location>
+      <date>Monday January 25 1999 7:28 ET</date>
+    </dateline>
+  </body>
+</nitf> 
